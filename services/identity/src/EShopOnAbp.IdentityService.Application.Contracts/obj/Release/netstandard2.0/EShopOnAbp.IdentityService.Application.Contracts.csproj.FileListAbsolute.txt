@@ -1,0 +1,13 @@
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/bin/Release/netstandard2.0/EShopOnAbp.IdentityService.Application.Contracts.deps.json
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/bin/Release/netstandard2.0/EShopOnAbp.IdentityService.Application.Contracts.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/bin/Release/netstandard2.0/EShopOnAbp.IdentityService.Application.Contracts.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/bin/Release/netstandard2.0/EShopOnAbp.IdentityService.Domain.Shared.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/bin/Release/netstandard2.0/EShopOnAbp.IdentityService.Domain.Shared.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.IdentityService.Application.Contracts.csproj.AssemblyReference.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.IdentityService.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.IdentityService.Application.Contracts.AssemblyInfoInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.IdentityService.Application.Contracts.AssemblyInfo.cs
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.IdentityService.Application.Contracts.csproj.CoreCompileInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.IdentityService.Application.Contracts.csproj.CopyComplete
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.IdentityService.Application.Contracts.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.IdentityService.Application.Contracts.pdb

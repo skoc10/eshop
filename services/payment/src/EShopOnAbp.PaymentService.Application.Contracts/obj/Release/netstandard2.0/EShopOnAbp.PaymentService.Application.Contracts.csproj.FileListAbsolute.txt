@@ -1,0 +1,13 @@
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.deps.json
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Domain.Shared.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Domain.Shared.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.csproj.AssemblyReference.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.AssemblyInfoInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.AssemblyInfo.cs
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.csproj.CoreCompileInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.csproj.CopyComplete
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Application.Contracts/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.pdb

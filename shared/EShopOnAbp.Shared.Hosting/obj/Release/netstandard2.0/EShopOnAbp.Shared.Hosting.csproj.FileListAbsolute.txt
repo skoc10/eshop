@@ -1,0 +1,10 @@
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/bin/Release/netstandard2.0/EShopOnAbp.Shared.Hosting.deps.json
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/bin/Release/netstandard2.0/EShopOnAbp.Shared.Hosting.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/bin/Release/netstandard2.0/EShopOnAbp.Shared.Hosting.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/obj/Release/netstandard2.0/EShopOnAbp.Shared.Hosting.csproj.AssemblyReference.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/obj/Release/netstandard2.0/EShopOnAbp.Shared.Hosting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/obj/Release/netstandard2.0/EShopOnAbp.Shared.Hosting.AssemblyInfoInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/obj/Release/netstandard2.0/EShopOnAbp.Shared.Hosting.AssemblyInfo.cs
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/obj/Release/netstandard2.0/EShopOnAbp.Shared.Hosting.csproj.CoreCompileInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/obj/Release/netstandard2.0/EShopOnAbp.Shared.Hosting.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/obj/Release/netstandard2.0/EShopOnAbp.Shared.Hosting.pdb

@@ -1,0 +1,1057 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Host/EShopOnAbp.OrderingService.HttpApi.Host.csproj": {}
+  },
+  "projects": {
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/EShopOnAbp.AdministrationService.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/EShopOnAbp.AdministrationService.Domain.Shared.csproj",
+        "projectName": "EShopOnAbp.AdministrationService.Domain.Shared",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/EShopOnAbp.AdministrationService.Domain.Shared.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.AuditLogging.Domain.Shared": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.SettingManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain/EShopOnAbp.AdministrationService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain/EShopOnAbp.AdministrationService.Domain.csproj",
+        "projectName": "EShopOnAbp.AdministrationService.Domain",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain/EShopOnAbp.AdministrationService.Domain.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/EShopOnAbp.AdministrationService.Domain.Shared.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/EShopOnAbp.AdministrationService.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.AuditLogging.Domain": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Identity": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.IdentityServer": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.SettingManagement.Domain": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.EntityFrameworkCore/EShopOnAbp.AdministrationService.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.EntityFrameworkCore/EShopOnAbp.AdministrationService.EntityFrameworkCore.csproj",
+        "projectName": "EShopOnAbp.AdministrationService.EntityFrameworkCore",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.EntityFrameworkCore/EShopOnAbp.AdministrationService.EntityFrameworkCore.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.EntityFrameworkCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain/EShopOnAbp.AdministrationService.Domain.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain/EShopOnAbp.AdministrationService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Volo.Abp.AuditLogging.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.BlobStoring.Database.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.PostgreSql": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.PermissionManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.SettingManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application.Contracts/EShopOnAbp.OrderingService.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application.Contracts/EShopOnAbp.OrderingService.Application.Contracts.csproj",
+        "projectName": "EShopOnAbp.OrderingService.Application.Contracts",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application.Contracts/EShopOnAbp.OrderingService.Application.Contracts.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain.Shared/EShopOnAbp.OrderingService.Domain.Shared.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain.Shared/EShopOnAbp.OrderingService.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.Authorization": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.Ddd.Application.Contracts": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application/EShopOnAbp.OrderingService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application/EShopOnAbp.OrderingService.Application.csproj",
+        "projectName": "EShopOnAbp.OrderingService.Application",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application/EShopOnAbp.OrderingService.Application.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application.Contracts/EShopOnAbp.OrderingService.Application.Contracts.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application.Contracts/EShopOnAbp.OrderingService.Application.Contracts.csproj"
+              },
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/EShopOnAbp.OrderingService.Domain.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/EShopOnAbp.OrderingService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.AutoMapper": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.Ddd.Application": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain.Shared/EShopOnAbp.OrderingService.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain.Shared/EShopOnAbp.OrderingService.Domain.Shared.csproj",
+        "projectName": "EShopOnAbp.OrderingService.Domain.Shared",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain.Shared/EShopOnAbp.OrderingService.Domain.Shared.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Domain.Shared/EShopOnAbp.PaymentService.Domain.Shared.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Domain.Shared/EShopOnAbp.PaymentService.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.Validation": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/EShopOnAbp.OrderingService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/EShopOnAbp.OrderingService.Domain.csproj",
+        "projectName": "EShopOnAbp.OrderingService.Domain",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/EShopOnAbp.OrderingService.Domain.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain.Shared/EShopOnAbp.OrderingService.Domain.Shared.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain.Shared/EShopOnAbp.OrderingService.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.Ddd.Domain": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.EntityFrameworkCore/EShopOnAbp.OrderingService.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.EntityFrameworkCore/EShopOnAbp.OrderingService.EntityFrameworkCore.csproj",
+        "projectName": "EShopOnAbp.OrderingService.EntityFrameworkCore",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.EntityFrameworkCore/EShopOnAbp.OrderingService.EntityFrameworkCore.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.EntityFrameworkCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/EShopOnAbp.OrderingService.Domain.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/EShopOnAbp.OrderingService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.PostgreSql": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Host/EShopOnAbp.OrderingService.HttpApi.Host.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Host/EShopOnAbp.OrderingService.HttpApi.Host.csproj",
+        "projectName": "EShopOnAbp.OrderingService.HttpApi.Host",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Host/EShopOnAbp.OrderingService.HttpApi.Host.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Host/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application/EShopOnAbp.OrderingService.Application.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application/EShopOnAbp.OrderingService.Application.csproj"
+              },
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.EntityFrameworkCore/EShopOnAbp.OrderingService.EntityFrameworkCore.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.EntityFrameworkCore/EShopOnAbp.OrderingService.EntityFrameworkCore.csproj"
+              },
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi/EShopOnAbp.OrderingService.HttpApi.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi/EShopOnAbp.OrderingService.HttpApi.csproj"
+              },
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting.Microservices/EShopOnAbp.Shared.Hosting.Microservices.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting.Microservices/EShopOnAbp.Shared.Hosting.Microservices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Volo.Abp.Http.Client.IdentityModel.Web": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.Identity.HttpApi.Client": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi/EShopOnAbp.OrderingService.HttpApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi/EShopOnAbp.OrderingService.HttpApi.csproj",
+        "projectName": "EShopOnAbp.OrderingService.HttpApi",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi/EShopOnAbp.OrderingService.HttpApi.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application.Contracts/EShopOnAbp.OrderingService.Application.Contracts.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Application.Contracts/EShopOnAbp.OrderingService.Application.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Volo.Abp.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Domain.Shared/EShopOnAbp.PaymentService.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Domain.Shared/EShopOnAbp.PaymentService.Domain.Shared.csproj",
+        "projectName": "EShopOnAbp.PaymentService.Domain.Shared",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Domain.Shared/EShopOnAbp.PaymentService.Domain.Shared.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.Domain.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.Validation": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting.AspNetCore/EShopOnAbp.Shared.Hosting.AspNetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting.AspNetCore/EShopOnAbp.Shared.Hosting.AspNetCore.csproj",
+        "projectName": "EShopOnAbp.Shared.Hosting.AspNetCore",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting.AspNetCore/EShopOnAbp.Shared.Hosting.AspNetCore.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting.AspNetCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/EShopOnAbp.Shared.Hosting.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/EShopOnAbp.Shared.Hosting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Volo.Abp.AspNetCore.Serilog": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.Swashbuckle": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting.Microservices/EShopOnAbp.Shared.Hosting.Microservices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting.Microservices/EShopOnAbp.Shared.Hosting.Microservices.csproj",
+        "projectName": "EShopOnAbp.Shared.Hosting.Microservices",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting.Microservices/EShopOnAbp.Shared.Hosting.Microservices.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting.Microservices/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.EntityFrameworkCore/EShopOnAbp.AdministrationService.EntityFrameworkCore.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.EntityFrameworkCore/EShopOnAbp.AdministrationService.EntityFrameworkCore.csproj"
+              },
+              "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting.AspNetCore/EShopOnAbp.Shared.Hosting.AspNetCore.csproj": {
+                "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting.AspNetCore/EShopOnAbp.Shared.Hosting.AspNetCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DistributedLock.Redis": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.DataProtection.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Volo.Abp.AspNetCore.MultiTenancy": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.BackgroundJobs.RabbitMQ": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.DistributedLocking": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.EventBus.RabbitMQ": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.MongoDB": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/EShopOnAbp.Shared.Hosting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/EShopOnAbp.Shared.Hosting.csproj",
+        "projectName": "EShopOnAbp.Shared.Hosting",
+        "projectPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/EShopOnAbp.Shared.Hosting.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Hosting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/Desktop/volosoft/eShopOnAbp/NuGet.Config",
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Volo.Abp.Data": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

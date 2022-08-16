@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yDauVZlgqRGDxyNHj9rz8beZKkgBGKII+ANv27k+5w0=",
+  "Source": "EShopOnAbp.AdministrationService.HttpApi.Host",
+  "BasePath": "_content/EShopOnAbp.AdministrationService.HttpApi.Host",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

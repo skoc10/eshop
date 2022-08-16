@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ljfSpui1t21h5b4MXrDE8RwtIYsEZ5IzO+h2z24C3kM=",
+  "Source": "EShopOnAbp.WebGateway",
+  "BasePath": "_content/EShopOnAbp.WebGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

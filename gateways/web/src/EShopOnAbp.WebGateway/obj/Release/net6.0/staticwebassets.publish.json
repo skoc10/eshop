@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kXNPtjONpn9Hwk/otRRU3+qgQQ5O7QcGL7v6IW7eLqI=",
+  "Source": "EShopOnAbp.WebGateway",
+  "BasePath": "_content/EShopOnAbp.WebGateway",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

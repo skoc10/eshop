@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yrkuleHWQjLitYnWTpUTYy/IHOUt6fWcbdm5SlY1KUA=",
+  "Source": "EShopOnAbp.PaymentService.HttpApi.Host",
+  "BasePath": "_content/EShopOnAbp.PaymentService.HttpApi.Host",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

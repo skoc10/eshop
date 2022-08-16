@@ -1,0 +1,17 @@
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.OrderingService.HttpApi.Client.deps.json
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.OrderingService.HttpApi.Client.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.OrderingService.HttpApi.Client.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.OrderingService.Application.Contracts.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.Shared.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Domain.Shared.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.OrderingService.Application.Contracts.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.Shared.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Domain.Shared.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.HttpApi.Client.csproj.AssemblyReference.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.HttpApi.Client.AssemblyInfoInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.HttpApi.Client.AssemblyInfo.cs
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.HttpApi.Client.csproj.CoreCompileInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.HttpApi.Client.csproj.CopyComplete
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.HttpApi.Client.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.HttpApi.Client.pdb

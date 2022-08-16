@@ -1,0 +1,13 @@
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/bin/Release/net6.0/EShopOnAbp.Shared.Localization.deps.json
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/bin/Release/net6.0/EShopOnAbp.Shared.Localization.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/bin/Release/net6.0/EShopOnAbp.Shared.Localization.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/obj/Release/net6.0/EShopOnAbp.Shared.Localization.csproj.AssemblyReference.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/obj/Release/net6.0/EShopOnAbp.Shared.Localization.EmbeddedFilesManifest.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/obj/Release/net6.0/EShopOnAbp.Shared.Localization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/obj/Release/net6.0/EShopOnAbp.Shared.Localization.AssemblyInfoInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/obj/Release/net6.0/EShopOnAbp.Shared.Localization.AssemblyInfo.cs
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/obj/Release/net6.0/EShopOnAbp.Shared.Localization.csproj.CoreCompileInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/obj/Release/net6.0/EShopOnAbp.Shared.Localization.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/obj/Release/net6.0/refint/EShopOnAbp.Shared.Localization.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/obj/Release/net6.0/EShopOnAbp.Shared.Localization.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/shared/EShopOnAbp.Shared.Localization/obj/Release/net6.0/ref/EShopOnAbp.Shared.Localization.dll

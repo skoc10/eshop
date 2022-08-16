@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1AxPQJ3M1/gqMtQnh2GpdDxLB915eLNUSDQCcJHfblY=",
+  "Source": "EShopOnAbp.OrderingService.HttpApi.Host",
+  "BasePath": "_content/EShopOnAbp.OrderingService.HttpApi.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

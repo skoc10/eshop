@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EShopOnAbp.AdministrationService
+build_property.ProjectDir = /Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain/

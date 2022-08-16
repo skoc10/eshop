@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EShopOnAbp.PublicWeb
+build_property.RootNamespace = EShopOnAbp.PublicWeb
+build_property.ProjectDir = /Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Components/Basket/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9CYXNrZXQvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Components/Payment/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYXltZW50L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Components/Purchase/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QdXJjaGFzZS9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Components/Toolbar/Cart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Ub29sYmFyL0NhcnQvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Components/Toolbar/LoginLink/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Ub29sYmFyL0xvZ2luTGluay9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Components/UserOrders/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Vc2VyT3JkZXJzL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Components/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Pages/Basket.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmFza2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Pages/MyOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXlPcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Pages/OrderReceived.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3JkZXJSZWNlaXZlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Pages/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Pages/PaymentCompleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGF5bWVudENvbXBsZXRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Pages/ProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/skoc/Desktop/volosoft/eShopOnAbp/apps/public-web/src/EShopOnAbp.PublicWeb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

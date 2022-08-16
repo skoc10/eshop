@@ -1,0 +1,15 @@
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.HttpApi.Client.deps.json
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.HttpApi.Client.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.HttpApi.Client.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Domain.Shared.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Application.Contracts.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Domain.Shared.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.HttpApi.Client.csproj.AssemblyReference.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.HttpApi.Client.AssemblyInfoInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.HttpApi.Client.AssemblyInfo.cs
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.HttpApi.Client.csproj.CoreCompileInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.HttpApi.Client.csproj.CopyComplete
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.HttpApi.Client.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/payment/src/EShopOnAbp.PaymentService.HttpApi.Client/obj/Release/netstandard2.0/EShopOnAbp.PaymentService.HttpApi.Client.pdb

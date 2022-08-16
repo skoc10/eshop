@@ -1,0 +1,11 @@
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/bin/Release/netstandard2.0/EShopOnAbp.AdministrationService.Domain.Shared.deps.json
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/bin/Release/netstandard2.0/EShopOnAbp.AdministrationService.Domain.Shared.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/bin/Release/netstandard2.0/EShopOnAbp.AdministrationService.Domain.Shared.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/obj/Release/netstandard2.0/EShopOnAbp.AdministrationService.Domain.Shared.csproj.AssemblyReference.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/obj/Release/netstandard2.0/EShopOnAbp.AdministrationService.Domain.Shared.EmbeddedFilesManifest.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/obj/Release/netstandard2.0/EShopOnAbp.AdministrationService.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/obj/Release/netstandard2.0/EShopOnAbp.AdministrationService.Domain.Shared.AssemblyInfoInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/obj/Release/netstandard2.0/EShopOnAbp.AdministrationService.Domain.Shared.AssemblyInfo.cs
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/obj/Release/netstandard2.0/EShopOnAbp.AdministrationService.Domain.Shared.csproj.CoreCompileInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/obj/Release/netstandard2.0/EShopOnAbp.AdministrationService.Domain.Shared.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/administration/src/EShopOnAbp.AdministrationService.Domain.Shared/obj/Release/netstandard2.0/EShopOnAbp.AdministrationService.Domain.Shared.pdb

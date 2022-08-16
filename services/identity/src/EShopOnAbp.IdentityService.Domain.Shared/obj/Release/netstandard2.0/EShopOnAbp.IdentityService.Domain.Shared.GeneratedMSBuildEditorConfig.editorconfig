@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EShopOnAbp.IdentityService
+build_property.ProjectDir = /Users/skoc/Desktop/volosoft/eShopOnAbp/services/identity/src/EShopOnAbp.IdentityService.Domain.Shared/

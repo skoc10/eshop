@@ -1,0 +1,15 @@
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/bin/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.deps.json
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/bin/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/bin/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/bin/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.Shared.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Domain.Shared.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/bin/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.Shared.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/bin/Release/netstandard2.0/EShopOnAbp.PaymentService.Domain.Shared.pdb
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.csproj.AssemblyReference.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.AssemblyInfoInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.AssemblyInfo.cs
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.csproj.CoreCompileInputs.cache
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.csproj.CopyComplete
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.dll
+/Users/skoc/Desktop/volosoft/eShopOnAbp/services/ordering/src/EShopOnAbp.OrderingService.Domain/obj/Release/netstandard2.0/EShopOnAbp.OrderingService.Domain.pdb
