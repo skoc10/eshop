@@ -124,8 +124,8 @@ administration:
 # gateway-web sub-chart override
 gateway-web:
   config:
-    selfUrl: https://gateway.eshoponabp.com
-    corsOrigins: https://admin.eshoponabp.com
+    selfUrl: https://demomicro-st-gateway.eshoponabp.com
+    corsOrigins: https://demomicro-st-admin.eshoponabp.com
     globalConfigurationBaseUrl: http://eshop-az-gateway-public
     authServer:
       authority: http://eshop-az-authserver
@@ -137,10 +137,10 @@ gateway-web:
     rabbitmqHost: eshop-az-rabbitmq
     elasticsearchHost: eshop-az-elasticsearch
   ingress:
-    host: gateway.eshoponabp.com
+    host: demomicro-st-gateway.eshoponabp.com
   image:
-    repository: "volocr.azurecr.io/eshoponabp/gateway-web"
-    tag: 1.0.5
+    repository: "volocr.azurecr.io/demomicro/gateway-web"
+    tag: 1.0.1
   reRoutes:
     accountService:
       url: http://eshop-az-authserver

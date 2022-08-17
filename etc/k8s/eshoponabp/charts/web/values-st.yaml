@@ -1,5 +1,5 @@
 config:
-  selfUrl: https://demomicro-st-demomicro-st-admin.eshoponabp.com
+  selfUrl: https://demomicro-st-admin.eshoponabp.com
   gatewayUrl: https://demomicro-st-gateway.eshoponabp.com
   authServer:
     authority: https://demomicro-st-auth.eshoponabp.com
