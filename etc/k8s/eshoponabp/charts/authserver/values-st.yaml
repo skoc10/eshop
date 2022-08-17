@@ -14,7 +14,7 @@ config:
   elasticsearchHost: elasticsearch-elasticsearch
 ingress:
   host: demomicro-st-authserver.eshoponabp.com
-  tlsSecret: eshop-wildcard-tls
+  tlsSecret: demomicro-authserver-tls
 image:
   repository: "volocr.azurecr.io/demomicro/app-authserver"
   tag: 1.0.1
