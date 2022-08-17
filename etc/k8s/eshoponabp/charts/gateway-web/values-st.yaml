@@ -1,35 +1,29 @@
 config:
-  selfUrl: # https://eshop-st-gateway-web
-  corsOrigins: # localhost:4200
-  globalConfigurationBaseUrl: # http://eshop-st-gateway-web
+  selfUrl: https://demomicro-st-gateway.eshoponabp.com
+  corsOrigins: https://demomicro-st-admin.eshoponabp.com
+  globalConfigurationBaseUrl: http://eshop-az-gateway-public
   authServer:
-    authority: http://eshop-st-authserver
+    authority: http://eshop-az-authserver
     requireHttpsMetadata: "false"
     swaggerClientId: WebGateway_Swagger
     swaggerClientSecret: "1q2w3e*"
-  dotnetEnv: # 
-  redisHost: #
-  rabbitmqHost: #
-  elasticsearchHost: #
-  stringEncryptionDefaultPassPhrase: gsKnGZ041HLL4IM8
+  dotnetEnv: Production
+  redisHost: redis-redis
+  rabbitmqHost: rabbitmq-rabbitmq
+  elasticsearchHost: elasticsearch-elasticsearch
+ingress:
+  host: demomicro-st-gateway.eshoponabp.com
+image:
+  repository: "volocr.azurecr.io/demomicro/gateway-web"
+  tag: 1.0.1
 reRoutes:
   accountService:
-    url: http://eshop-st-authserver
+    url: http://eshop-az-authserver
   identityService:
-    url: http://eshop-st-identity
+    url: http://eshop-az-identity
   administrationService:
-    url: http://eshop-st-administration
+    url: http://eshop-az-administration
   catalogService:
-    url: http://eshop-st-catalog
+    url: http://eshop-az-catalog
   orderingService:
-    url: http://eshop-st-order
-ingress:
-  host: # eshop-st-gateway-web
-  tlsSecret: eshop-wildcard-tls
-
-image:
-  repository: eshoponabp/gateway-web
-  tag: latest
-  pullPolicy: IfNotPresent
-
-env: {}
+    url: http://eshop-az-orderingv
