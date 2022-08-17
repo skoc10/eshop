@@ -9,6 +9,7 @@ config:
     skipIssuerCheck: true
 ingress:
   host: demomicro-st-admin.eshoponabp.com
+  tlsSecret: demomicro-adminweb-tls
 image:
   repository: "volocr.azurecr.io/demomicro/app-web"
   tag: 1.0.1

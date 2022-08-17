@@ -13,6 +13,7 @@ config:
   elasticsearchHost: elasticsearch-elasticsearch
 ingress:
   host: demomicro-st-gateway.eshoponabp.com
+  tlsSecret: demomicro-gatewayweb-tls
 image:
   repository: "volocr.azurecr.io/demomicro/gateway-web"
   tag: 1.0.1
